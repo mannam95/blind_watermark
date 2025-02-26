@@ -8,7 +8,7 @@ import copy
 import cv2
 from cv2 import dct, idct
 from pywt import dwt2, idwt2
-from .pool import AutoPool
+from pool import AutoPool
 
 
 class WaterMarkCore:

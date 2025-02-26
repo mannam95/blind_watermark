@@ -7,8 +7,8 @@ import warnings
 import numpy as np
 import cv2
 
-from .bwm_core import WaterMarkCore
-from .version import bw_notes
+from bwm_core import WaterMarkCore
+from version import bw_notes
 
 
 class WaterMark:
